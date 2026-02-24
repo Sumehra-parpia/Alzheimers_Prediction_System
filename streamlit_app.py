@@ -1,6 +1,6 @@
 import base64
 import streamlit as st
-from config import *
+from update_config import *
 from streamlit_pages._home_page import home_page
 from streamlit_pages._predict_alzheimer import prediction_page
 from streamlit_pages._latest_news import news_page
